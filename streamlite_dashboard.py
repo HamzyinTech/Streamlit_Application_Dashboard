@@ -35,10 +35,11 @@ body {
 # --------------------------------------------------
 @st.cache_data
 def load_data():
-    df = pd.read_csv(r"C:\Users\USER\Codveda_Project\books_cleaned.csv")
-    return df
+    return pd.read_csv("books_cleaned.csv")
 
 df = load_data()
+
+
 
 # --------------------------------------------------
 # 4️⃣ Sidebar Filters
