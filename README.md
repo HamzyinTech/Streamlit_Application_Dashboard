@@ -25,7 +25,7 @@ Design and deploy an interactive dashboard that:
 Data Source - Books to Scrape(Scraped Data)
 
 ## 🌐 Live Application
-🔗 [Add your Streamlit live app link here]
+🔗 [https://appapplicationdashboard-yocyhlm8tvawis4f3rton4.streamlit.app/]
 
 ---
 
@@ -93,7 +93,7 @@ This application is deployed on **Streamlit Community Cloud**, enabling:
 ## 📸 Dashboard Preview
 (Add your screenshot here — this increases recruiter attention by ~2x)
 
-![Dashboard Preview](your-image-link.png)
+![Dashboard Preview]()
 
 ---
 
@@ -116,7 +116,7 @@ This application is deployed on **Streamlit Community Cloud**, enabling:
 
 ## 👨‍💻 Author
 **HamzyinTech**  
-🔗 [GitHub Repository](https://github.com/HamzyinTech)
+🔗 [GitHub Repository]()
 
 ---
 
