@@ -116,7 +116,7 @@ This application is deployed on **Streamlit Community Cloud**, enabling:
 
 ## 👨‍💻 Author
 **HamzyinTech**  
-🔗 [GitHub Repository]()
+🔗 [Linkldn](https://www.linkedin.com/in/oyegoke-hamad-0b656a322)
 
 ---
 
