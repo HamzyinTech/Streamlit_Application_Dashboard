@@ -91,9 +91,9 @@ This application is deployed on **Streamlit Community Cloud**, enabling:
 ---
 
 ## 📸 Dashboard Preview
-(Add your screenshot here — this increases recruiter attention by ~2x)
+(https://github.com/HamzyinTech/Streamlit_Application_Dashboard/tree/main/images)
 
-![Dashboard Preview]()
+
 
 ---
 
