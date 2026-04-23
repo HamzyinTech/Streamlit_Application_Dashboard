@@ -91,7 +91,7 @@ This application is deployed on **Streamlit Community Cloud**, enabling:
 ---
 
 ## 📸 Dashboard Preview
-(https://github.com/HamzyinTech/Streamlit_Application_Dashboard/tree/main/images)
+[https://github.com/HamzyinTech/Streamlit_Application_Dashboard/tree/main/images]
 
 
 
